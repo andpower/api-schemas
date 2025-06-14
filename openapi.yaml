@@ -1,3 +1,6 @@
 servers:
     - description: Client API
       url: https://api.cloudflare.com/client/v4
+servers:
+    - description: Client API
+      url: https://api.cloudflare.com/client/v4
